@@ -1,5 +1,5 @@
-lock-column-widths [![Build Status](https://travis-ci.org/turn/lock-column-widths.svg?branch=master)](https://travis-ci.org/turn/lock-column-widths)
-==================
+angular-lock-column-widths [![Build Status](https://travis-ci.org/turn/angular-lock-column-widths.svg?branch=master)](https://travis-ci.org/turn/angular-lock-column-widths)
+==========================
 
 lock and unlock table column widths, to prevent resizing
 
