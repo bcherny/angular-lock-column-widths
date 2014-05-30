@@ -1,0 +1,38 @@
+{
+  "name": "angular-lock-column-widths",
+  "version": "0.0.0",
+  "description": "lock and unlock table column widths, to prevent resizing",
+  "main": "dist/angular-lock-column-widths.js",
+  "keywords": [
+    "angular",
+    "column",
+    "header",
+    "table",
+    "th",
+    "td",
+    "tr",
+    "lock",
+    "fix",
+    "fixed",
+    "width",
+    "resize",
+    "prevent",
+    "stuck"
+  ],
+  "authors": [
+    "Boris Cherny <bcherny@turn.com>"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "src",
+    "node_modules",
+    "bower_components",
+    "test",
+    "Gruntfile.coffee",
+    ".travis.yml"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.16",
+    "angular-mocks": "~1.2.16"
+  }
+}
