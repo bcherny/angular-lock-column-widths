@@ -7,3 +7,4 @@ _SpecRunner.html
 Gruntfile.js
 .grunt
 test/test.js
+reports

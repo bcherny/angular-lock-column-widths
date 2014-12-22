@@ -7,11 +7,12 @@
     "test": "test"
   },
   "scripts": {
-    "test": "grunt test --verbose"
+    "test": "grunt test --verbose",
+    "pretest": "npm i"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turn/angular-lock-column-widths.git"
+    "url": "git+https://github.com/bcherny/angular-lock-column-widths.git"
   },
   "keywords": [
     "angular",
@@ -29,13 +30,15 @@
     "prevent",
     "stuck"
   ],
-  "author": "Boris Cherny <bcherny@turn.com>",
+  "author": "Boris Cherny <boris@performancejs.com>",
   "license": "Apache2",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-coffee": "^0.10.1",
-    "grunt-contrib-jasmine": "^0.6.4",
+    "grunt-contrib-jasmine": "^0.8.1",
     "grunt-contrib-watch": "^0.6.1",
-    "grunt-ngmin": "0.0.3"
+    "grunt-coveralls": "^1.0.0",
+    "grunt-ngmin": "0.0.3",
+    "grunt-template-jasmine-istanbul": "^0.3.0"
   }
 }
