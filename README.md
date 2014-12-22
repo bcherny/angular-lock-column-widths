@@ -1,11 +1,10 @@
-angular-lock-column-widths [![Build Status](https://travis-ci.org/turn/angular-lock-column-widths.svg?branch=master)](https://travis-ci.org/turn/angular-lock-column-widths)
-==========================
+# angular-lock-column-widths [![Build Status](https://travis-ci.org/bcherny/angular-lock-column-widths.svg?branch=master)](https://travis-ci.org/bcherny/angular-lock-column-widths) [![Coverage Status](https://img.shields.io/coveralls/bcherny/angular-lock-column-widths.svg)](https://coveralls.io/r/bcherny/angular-lock-column-widths)
 
 lock and unlock table column widths, to prevent resizing
 
 ## install
 
-`bower install -S angular-lock-column-widths`
+`bower install -S git@github.com:bcherny/angular-lock-column-widths.git`
 
 ## use
 
