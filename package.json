@@ -1,6 +1,6 @@
 {
   "name": "angular-lock-column-widths",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "lock and unlock table column widths, to prevent resizing",
   "main": "dist/angular-lock-column-widths.js",
   "directories": {

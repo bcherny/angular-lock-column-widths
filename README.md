@@ -1,4 +1,9 @@
-# angular-lock-column-widths [![Build Status](https://travis-ci.org/bcherny/angular-lock-column-widths.svg?branch=master)](https://travis-ci.org/bcherny/angular-lock-column-widths) [![Coverage Status](https://img.shields.io/coveralls/bcherny/angular-lock-column-widths.svg)](https://coveralls.io/r/bcherny/angular-lock-column-widths)
+# angular-lock-column-widths [![Build Status][build]](https://travis-ci.org/bcherny/angular-lock-column-widths) [![Coverage Status][coverage]](https://coveralls.io/r/bcherny/angular-lock-column-widths) ![][bower] [![npm]](https://www.npmjs.com/package/angular-lock-column-widths)
+
+[build]: https://img.shields.io/travis/bcherny/angular-lock-column-widths.svg?branch=master&style=flat-square
+[coverage]: http://img.shields.io/coveralls/bcherny/angular-lock-column-widths.svg?branch=master&style=flat-square
+[bower]: https://img.shields.io/bower/v/angular-lock-column-widths.svg?style=flat-square
+[npm]: https://img.shields.io/npm/v/angular-lock-column-widths.svg?style=flat-square
 
 lock and unlock table column widths, to prevent resizing
 
